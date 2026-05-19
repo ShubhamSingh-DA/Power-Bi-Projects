@@ -1,19 +1,36 @@
-# Hi, I'm Shubham Singh 👋
+# Power BI Portfolio
 
-Welcome to my GitHub! I'm an Enthusiast Data Analyst passionate about uncovering insights, solving problems, and telling stories with data.
+**Power BI | SQL | Excel | DAX | GitHub**
 
-## 🔍 What I Do:
+Welcome to my Power BI portfolio repository.  
+This repository contains dashboard projects and business intelligence solutions showcasing my skills in data visualization, reporting, and analytics.
 
-- Analyze and visualize data to extract meaningful insights 📊
-- Explore big data strategies and techniques 🌐
-- Build tools and dashboards for data-driven decisions 📈
+---
 
-## 💼 Current Focus:
+## About Me
 
-- Learning and experimenting with data analytics tools and techniques.
-- Simplifying complex datasets into actionable insights.
+I am a Data Analyst specializing in Power BI. I transform raw data into interactive dashboards and actionable insights to help businesses make data-driven decisions. This portfolio showcases my ability to turn complex data into compelling visual stories.
 
-## 🌟 Let's Connect:
+### Core Skills
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- KPI Analysis
+- Data Cleaning & Transformation
+- Reporting Automation
 
-- LinkedIn: singhshubham25
-- Feel free to explore my repositories and collaborate on exciting data projects!
+---
+
+# Projects
+
+## Project 1: Financial Ratio & Competitor Benchmarking Dashboard
+
+This dashboard provides a comprehensive five year comparative financial analysis spanning 2021 to 2025 across five real estate and development companies. It allows users to dynamically benchmark competitor performance across crucial financial pillars. The main matrix tracks organizational health through liquidity, return, turnover, efficiency, leverage, and profitability ratios. Accompanying visual charts dynamically analyze trends in revenue versus profit growth, evaluate capital structure balance, and compare shareholder equity against debt financing over the five year period.
+
+### Check it out here
+`https://app.powerbi.com/view?r=eyJrIjoiMmFiM2MwZWEtYzAwNS00Yzk5LThhYjYtZGM0YzliZTJiYTU0IiwidCI6ImVkN2ZmNGJhLWZiYWMtNGQyZi1iMzgxLTQxZWY3ZjJjOGVhYiIsImMiOjEwfQ%3D%3D`
+
+### Preview
+_Add Screenshot Here_
+
+---
