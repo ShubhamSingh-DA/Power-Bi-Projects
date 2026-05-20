@@ -59,3 +59,16 @@ The dashboard provides an overview of invoice recovery performance. Total invoic
 
 
 ---
+
+## Project 4: Leads Dashboard
+
+The dashboard provides a comprehensive overview of lead management and campaign performance. A total of 546 leads were generated, with 166 successfully converted, achieving a 30% conversion rate. However, only 36 leads remain active, while a significant number are inactive or cold leads. Most leads are ageing beyond 30 days, indicating delays in follow-ups. Monthly lead generation peaked in September with 141 leads. Among campaigns, C2 delivered the highest performance with 205 leads, highlighting it as the most effective campaign.
+
+### Check it out here
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDhlZDlmNmQtMmE4OS00YTY0LWFhNjMtZDQwM2JhNjM3ZGQ1IiwidCI6ImVkN2ZmNGJhLWZiYWMtNGQyZi1iMzgxLTQxZWY3ZjJjOGVhYiIsImMiOjEwfQ%3D%3D)
+
+### Preview
+<img width="1287" height="731" alt="Screenshot 2026-05-20 235253" src="https://github.com/user-attachments/assets/91ad1135-8dac-42a0-8684-fc4a77c15b47" />
+
+
+---
