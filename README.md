@@ -33,6 +33,7 @@ This dashboard analyzes customer demographics, revenue trends, and buying behavi
 ### Preview
 <img width="1160" height="660" alt="Screenshot 2026-05-20 142618" src="https://github.com/user-attachments/assets/91499b50-1eb7-4cbe-b365-7d826ea35fc9" />
 
+---
 
 ## Project 2: Supplier Performance Dashboard
 
