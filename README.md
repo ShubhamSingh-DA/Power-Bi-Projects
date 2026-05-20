@@ -47,7 +47,7 @@ This dashboard analyzes supplier performance, inventory health, and product dist
 
 ---
 
-## Project 2: Supplier Performance Dashboard
+## Project 3: Ageing Dashboard
 
 The dashboard provides an overview of invoice recovery performance. Total invoices amount to 3.34M, with 536.22K collected and 2.80M still outstanding, resulting in a realization rate of 16.06%. Most unpaid amounts fall under the 90+ days ageing category, indicating delayed collections and higher overdue balances. Client-wise filtering allows focused analysis, while the ageing table highlights invoice-level outstanding amounts, helping management identify critical overdue accounts and prioritize collection efforts.
 
