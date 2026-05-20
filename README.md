@@ -23,14 +23,15 @@ I am a Data Analyst specializing in Power BI. I transform raw data into interact
 
 # Projects
 
-## Project 1: Financial Ratio & Competitor Benchmarking Dashboard
+## Project 1: Customer Performance Dashboard
 
-This dashboard provides a comprehensive five year comparative financial analysis spanning 2021 to 2025 across five real estate and development companies. It allows users to dynamically benchmark competitor performance across crucial financial pillars. The main matrix tracks organizational health through liquidity, return, turnover, efficiency, leverage, and profitability ratios. Accompanying visual charts dynamically analyze trends in revenue versus profit growth, evaluate capital structure balance, and compare shareholder equity against debt financing over the five year period.
+This dashboard analyzes customer demographics, revenue trends, and buying behavior. The company has 18K customers with an average age of 45. Customers aged 31–40 generate the highest revenue contribution. Around 71% of customers have children, while 29% do not. Revenue is almost equally shared between male and female customers. The dashboard also highlights loyal customers and top buyers, helping businesses understand customer patterns and improve decision-making.
 
 ### Check it out here
-`https://app.powerbi.com/view?r=eyJrIjoiMmFiM2MwZWEtYzAwNS00Yzk5LThhYjYtZGM0YzliZTJiYTU0IiwidCI6ImVkN2ZmNGJhLWZiYWMtNGQyZi1iMzgxLTQxZWY3ZjJjOGVhYiIsImMiOjEwfQ%3D%3D`
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmFiM2MwZWEtYzAwNS00Yzk5LThhYjYtZGM0YzliZTJiYTU0IiwidCI6ImVkN2ZmNGJhLWZiYWMtNGQyZi1iMzgxLTQxZWY3ZjJjOGVhYiIsImMiOjEwfQ%3D%3D)
 
 ### Preview
-_Add Screenshot Here_
+<img width="1160" height="660" alt="Screenshot 2026-05-20 142618" src="https://github.com/user-attachments/assets/91499b50-1eb7-4cbe-b365-7d826ea35fc9" />
+
 
 ---
