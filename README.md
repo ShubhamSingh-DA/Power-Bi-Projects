@@ -57,7 +57,6 @@ The dashboard provides an overview of invoice recovery performance. Total invoic
 ### Preview
 <img width="1292" height="731" alt="Screenshot 2026-05-20 232204" src="https://github.com/user-attachments/assets/2625ce06-4440-4057-9472-d11755f963d3" />
 
-
 ---
 
 ## Project 4: Leads Dashboard
@@ -70,5 +69,16 @@ The dashboard provides a comprehensive overview of lead management and campaign 
 ### Preview
 <img width="1287" height="731" alt="Screenshot 2026-05-20 235253" src="https://github.com/user-attachments/assets/91ad1135-8dac-42a0-8684-fc4a77c15b47" />
 
+---
+
+## Project 5: Sales Dashboard I
+
+The sales dashboard highlights overall business performance across multiple projects. Out of 587 total units, 423 units were sold, generating a total sales value of 554.7 and collections of 437.5, while receivables stand at 20.42. Project E contributed the highest sales value and collection performance, whereas Projects A and B recorded higher unsold values. Sales momentum shows a gradual decline over time despite periodic spikes. Additionally, Project C achieved the highest average sales value per unit, indicating stronger pricing efficiency and revenue generation.
+
+### Check it out here
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjM4ZDNlNjMtOTJkOC00ZDdjLWFkNWItNjVmYjdiM2UwY2UyIiwidCI6ImVkN2ZmNGJhLWZiYWMtNGQyZi1iMzgxLTQxZWY3ZjJjOGVhYiIsImMiOjEwfQ%3D%3D)
+
+### Preview
+<img width="1288" height="727" alt="Screenshot 2026-05-21 000605" src="https://github.com/user-attachments/assets/ac95b1d4-73b1-451d-ad94-ff900cc64dde" />
 
 ---
