@@ -46,3 +46,16 @@ This dashboard analyzes supplier performance, inventory health, and product dist
 <img width="1176" height="656" alt="Screenshot 2026-05-20 143202" src="https://github.com/user-attachments/assets/80ac7dd1-52d7-405f-9f8b-bfb09f89ad82" />
 
 ---
+
+## Project 2: Supplier Performance Dashboard
+
+The dashboard provides an overview of invoice recovery performance. Total invoices amount to 3.34M, with 536.22K collected and 2.80M still outstanding, resulting in a realization rate of 16.06%. Most unpaid amounts fall under the 90+ days ageing category, indicating delayed collections and higher overdue balances. Client-wise filtering allows focused analysis, while the ageing table highlights invoice-level outstanding amounts, helping management identify critical overdue accounts and prioritize collection efforts.
+
+### Check it out here
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmNmMWQ0NTktODA5Ny00YzE2LWJhODYtZWEzNzgwOGNhMzQ0IiwidCI6ImVkN2ZmNGJhLWZiYWMtNGQyZi1iMzgxLTQxZWY3ZjJjOGVhYiIsImMiOjEwfQ%3D%3D)
+
+### Preview
+<img width="1292" height="731" alt="Screenshot 2026-05-20 232204" src="https://github.com/user-attachments/assets/2625ce06-4440-4057-9472-d11755f963d3" />
+
+
+---
